@@ -17,7 +17,7 @@ age =int(input("what is your age? "))
 age18=18
 
 if age<age18:
-    print ("go watch kochutv")
+    print ("go watch cartoon")
 else:
-    print ("come watch some porn ")
+    print ("come watch something spicy ")
 
